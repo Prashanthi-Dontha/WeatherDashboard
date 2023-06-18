@@ -1,3 +1,26 @@
+# How the webpage works
+1. Initially page will show the weather details as per the system location
+2. User can enter the city names as per the choice
+3. details can see on page:
+     1.time zone
+     2.sunrise and sunset
+     3. Current Temperature
+     4. Feel like Temperature
+     5. Pressure
+     6. Humidity
+     7. Visibility
+     8. WindSpeed
+     9. Max/min temperatures
+     10. description of weather
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
